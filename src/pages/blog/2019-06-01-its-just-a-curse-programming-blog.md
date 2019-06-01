@@ -5,6 +5,8 @@ date: 2019-06-01T13:27:31.380Z
 description: 'Well, I scream out sometimes'
 featuredpost: true
 featuredimage: /img/aragorn.jpg
+tags:
+  - political surviving
 ---
 I am starting this simple shit because I am in a dangerous way. 
 
